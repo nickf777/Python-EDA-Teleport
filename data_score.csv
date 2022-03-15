@@ -1,0 +1,154 @@
+,City,color,name,score_out_of_10
+0,ottawa,#f3c32c,Housing,6.700499999999999
+1,ottawa,#f3d630,Cost of Living,6.027
+2,ottawa,#f4eb33,Startups,6.055
+3,ottawa,#d2ed31,Venture Capital,2.612
+4,ottawa,#7adc29,Travel Connectivity,1.532
+5,ottawa,#36cc24,Commute,5.4052500000000006
+6,ottawa,#19ad51,Business Freedom,8.966
+7,ottawa,#0d6999,Safety,8.4475
+8,ottawa,#051fa5,Healthcare,8.875333333333334
+9,ottawa,#150e78,Education,5.423500000000001
+10,ottawa,#3d14a4,Environmental Quality,9.29225
+11,ottawa,#5c14a1,Economy,5.8405000000000005
+12,ottawa,#88149f,Taxation,7.2745000000000015
+13,ottawa,#b9117d,Internet Access,6.267499999999999
+14,ottawa,#d10d54,Leisure & Culture,6.0920000000000005
+15,ottawa,#e70c26,Tolerance,8.6295
+16,ottawa,#f1351b,Outdoors,5.318499999999999
+0,halifax,#f3c32c,Housing,6.895000000000001
+1,halifax,#f3d630,Cost of Living,4.9430000000000005
+2,halifax,#f4eb33,Startups,3.624
+3,halifax,#d2ed31,Venture Capital,2.2840000000000003
+4,halifax,#7adc29,Travel Connectivity,1.5699999999999998
+5,halifax,#36cc24,Commute,5.402750000000001
+6,halifax,#19ad51,Business Freedom,8.966
+7,halifax,#0d6999,Safety,7.188500000000001
+8,halifax,#051fa5,Healthcare,8.67
+9,halifax,#150e78,Education,5.42
+10,halifax,#3d14a4,Environmental Quality,7.618499999999999
+11,halifax,#5c14a1,Economy,5.8405000000000005
+12,halifax,#88149f,Taxation,7.2745000000000015
+13,halifax,#b9117d,Internet Access,6.123500000000001
+14,halifax,#d10d54,Leisure & Culture,3.942
+15,halifax,#e70c26,Tolerance,7.853499999999999
+16,halifax,#f1351b,Outdoors,4.023
+0,quebec,#f3c32c,Housing,8.5175
+1,quebec,#f3d630,Cost of Living,6.037
+2,quebec,#f4eb33,Startups,3.7345000000000006
+3,quebec,#d2ed31,Venture Capital,2.237
+4,quebec,#7adc29,Travel Connectivity,1.3815000000000002
+5,quebec,#36cc24,Commute,5.279999999999999
+6,quebec,#19ad51,Business Freedom,8.966
+7,quebec,#0d6999,Safety,9.159500000000001
+8,quebec,#051fa5,Healthcare,8.725333333333335
+9,quebec,#150e78,Education,5.42
+10,quebec,#3d14a4,Environmental Quality,7.3155
+11,quebec,#5c14a1,Economy,5.8405000000000005
+12,quebec,#88149f,Taxation,7.2745000000000015
+13,quebec,#b9117d,Internet Access,3.2985
+14,quebec,#d10d54,Leisure & Culture,5.636500000000001
+15,quebec,#e70c26,Tolerance,8.622
+16,quebec,#f1351b,Outdoors,4.718999999999999
+0,toronto,#f3c32c,Housing,4.66
+1,toronto,#f3d630,Cost of Living,5.271
+2,toronto,#f4eb33,Startups,9.981
+3,toronto,#d2ed31,Venture Capital,7.602000000000001
+4,toronto,#7adc29,Travel Connectivity,4.335000000000001
+5,toronto,#36cc24,Commute,4.683000000000001
+6,toronto,#19ad51,Business Freedom,8.966
+7,toronto,#0d6999,Safety,7.693500000000001
+8,toronto,#051fa5,Healthcare,8.770333333333333
+9,toronto,#150e78,Education,7.602500000000001
+10,toronto,#3d14a4,Environmental Quality,7.1775
+11,toronto,#5c14a1,Economy,5.8405000000000005
+12,toronto,#88149f,Taxation,7.2745000000000015
+13,toronto,#b9117d,Internet Access,4.383
+14,toronto,#d10d54,Leisure & Culture,7.826
+15,toronto,#e70c26,Tolerance,7.928000000000002
+16,toronto,#f1351b,Outdoors,5.594
+0,winnipeg,#f3c32c,Housing,7.552500000000001
+1,winnipeg,#f3d630,Cost of Living,5.882
+2,winnipeg,#f4eb33,Startups,3.7965
+3,winnipeg,#d2ed31,Venture Capital,0.0
+4,winnipeg,#7adc29,Travel Connectivity,1.4754999999999998
+5,winnipeg,#36cc24,Commute,5.104500000000001
+6,winnipeg,#19ad51,Business Freedom,8.966
+7,winnipeg,#0d6999,Safety,6.0155
+8,winnipeg,#051fa5,Healthcare,8.544
+9,winnipeg,#150e78,Education,5.344000000000001
+10,winnipeg,#3d14a4,Environmental Quality,5.67475
+11,winnipeg,#5c14a1,Economy,5.8405000000000005
+12,winnipeg,#88149f,Taxation,7.2745000000000015
+13,winnipeg,#b9117d,Internet Access,4.902500000000001
+14,winnipeg,#d10d54,Leisure & Culture,4.688
+15,winnipeg,#e70c26,Tolerance,6.659000000000001
+16,winnipeg,#f1351b,Outdoors,4.243
+0,edmonton,#f3c32c,Housing,6.729500000000001
+1,edmonton,#f3d630,Cost of Living,5.522
+2,edmonton,#f4eb33,Startups,4.6240000000000006
+3,edmonton,#d2ed31,Venture Capital,2.392
+4,edmonton,#7adc29,Travel Connectivity,1.9019999999999997
+5,edmonton,#36cc24,Commute,5.09725
+6,edmonton,#19ad51,Business Freedom,8.966
+7,edmonton,#0d6999,Safety,7.1175000000000015
+8,edmonton,#051fa5,Healthcare,8.93
+9,edmonton,#150e78,Education,5.948
+10,edmonton,#3d14a4,Environmental Quality,8.17575
+11,edmonton,#5c14a1,Economy,5.8405000000000005
+12,edmonton,#88149f,Taxation,7.2745000000000015
+13,edmonton,#b9117d,Internet Access,4.609999999999999
+14,edmonton,#d10d54,Leisure & Culture,3.9739999999999998
+15,edmonton,#e70c26,Tolerance,7.9254999999999995
+16,edmonton,#f1351b,Outdoors,3.3850000000000002
+0,victoria,#f3c32c,Housing,5.696
+1,victoria,#f3d630,Cost of Living,5.703
+2,victoria,#f4eb33,Startups,4.479
+3,victoria,#d2ed31,Venture Capital,2.719
+4,victoria,#7adc29,Travel Connectivity,1.4945
+5,victoria,#36cc24,Commute,5.226000000000001
+6,victoria,#19ad51,Business Freedom,8.966
+7,victoria,#0d6999,Safety,7.808000000000001
+8,victoria,#051fa5,Healthcare,8.517333333333333
+9,victoria,#150e78,Education,5.3815
+10,victoria,#3d14a4,Environmental Quality,9.29475
+11,victoria,#5c14a1,Economy,5.8405000000000005
+12,victoria,#88149f,Taxation,7.2745000000000015
+13,victoria,#b9117d,Internet Access,6.194999999999999
+14,victoria,#d10d54,Leisure & Culture,4.523000000000001
+15,victoria,#e70c26,Tolerance,8.7825
+16,victoria,#f1351b,Outdoors,4.3555
+0,montreal,#f3c32c,Housing,7.392000000000001
+1,montreal,#f3d630,Cost of Living,5.948
+2,montreal,#f4eb33,Startups,8.102500000000001
+3,montreal,#d2ed31,Venture Capital,5.773000000000001
+4,montreal,#7adc29,Travel Connectivity,3.443
+5,montreal,#36cc24,Commute,5.107
+6,montreal,#19ad51,Business Freedom,8.966
+7,montreal,#0d6999,Safety,7.822
+8,montreal,#051fa5,Healthcare,8.325666666666667
+9,montreal,#150e78,Education,7.299000000000001
+10,montreal,#3d14a4,Environmental Quality,7.7215
+11,montreal,#5c14a1,Economy,5.8405000000000005
+12,montreal,#88149f,Taxation,7.2745000000000015
+13,montreal,#b9117d,Internet Access,4.478000000000001
+14,montreal,#d10d54,Leisure & Culture,6.9174999999999995
+15,montreal,#e70c26,Tolerance,8.193
+16,montreal,#f1351b,Outdoors,5.303
+0,vancouver,#f3c32c,Housing,4.080500000000001
+1,vancouver,#f3d630,Cost of Living,5.259
+2,vancouver,#f4eb33,Startups,8.17
+3,vancouver,#d2ed31,Venture Capital,5.8420000000000005
+4,vancouver,#7adc29,Travel Connectivity,2.771
+5,vancouver,#36cc24,Commute,4.93675
+6,vancouver,#19ad51,Business Freedom,8.966
+7,vancouver,#0d6999,Safety,7.5695
+8,vancouver,#051fa5,Healthcare,8.751333333333335
+9,vancouver,#150e78,Education,6.889000000000001
+10,vancouver,#3d14a4,Environmental Quality,8.42325
+11,vancouver,#5c14a1,Economy,5.8405000000000005
+12,vancouver,#88149f,Taxation,7.2745000000000015
+13,vancouver,#b9117d,Internet Access,4.550500000000001
+14,vancouver,#d10d54,Leisure & Culture,5.7170000000000005
+15,vancouver,#e70c26,Tolerance,8.295
+16,vancouver,#f1351b,Outdoors,7.4
